@@ -36,18 +36,8 @@ Currently learning and exploring different technologies while building a strong 
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🌟 Fun Fact
 > I believe every big journey starts with small consistent steps 🚀  
-
-📩 **Let's Connect:**
-- [LinkedIn](https://linkedin.com) *(Add your link here)*  
-- [Email](mailto:your.email@example.com)
 
 ---
 💡 _"Code, Learn, Repeat."_  
